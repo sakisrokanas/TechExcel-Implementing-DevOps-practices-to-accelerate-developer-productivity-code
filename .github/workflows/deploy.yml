@@ -1,1 +1,2 @@
-
+name: IAC workflow
+on: workflow_dispatch
